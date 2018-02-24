@@ -3,8 +3,3 @@
 Este texto esta completo 
 
 Este texto se le añadió desde la rama lo siguiente: Nuevo modificación desde la Rama1
-
-
-
-
-Fin
